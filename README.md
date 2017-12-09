@@ -1,2 +1,2 @@
-# LIGHTOJ_SEGMENT-TREE-PROBLEMS
-Solutions to segment tree problems in LightOJ
+# LIGHTOJ SEGMENT-TREE AND FENWICK TREE PROBLEMS
+Solutions to segment and fenwick tree problems on LightOJ
